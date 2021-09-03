@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Yahho Hello I am Nobara, Be happy, boys. I'm the woman in your group[.](https://telegra.ph/file/33569f78a0f9c565db3a3.jpg)
+Yo, Hello I am Sanji, Be happy, boys. I'm the woman in your group[.](https://telegra.ph/file/216c2fbd0f9b5b5d74a11.jpg)
 """
 
 buttons = [
@@ -83,9 +83,9 @@ buttons = [
             text="➕️ sᴜᴍᴍᴏɴ ➕️", url="t.me/NobarasanRobot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="Nobara_"),
+        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="Sanji_"),
         InlineKeyboardButton(
-            text="ɢʀᴏᴜᴘ", url=f"https://t.me/The_Phantom_Troupe"
+            text="ɢʀᴏᴜᴘ", url=f"https://t.me/animefan_club777"
         ),
     ],
     [
@@ -95,10 +95,10 @@ buttons = [
 
 
 HELP_STRINGS = """
-Hai, Nobara [Kugisaki](https://telegra.ph/file/2e925ae6d720be7ab39f4.jpg) 
+Hai, Sanji (https://telegra.ph/file/216c2fbd0f9b5b5d74a11.jpg) 
 """
 
-yone_IMG = "https://telegra.ph/file/2aea4cfb32a76c857217c.jpg"
+yone_IMG = "https://telegra.ph/file/216c2fbd0f9b5b5d74a11.jpg"
 
 DONATE_STRING = """Soon."""
 
